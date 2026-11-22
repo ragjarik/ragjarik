@@ -1,0 +1,30 @@
+name: Refresh WakaTime flight log
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Render SVG cards
+        run: python3 scripts/render_cards.py
+
+      - name: Commit if changed
+        run: |
+          git add -A assets
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh WakaTime flight log"
+          git push

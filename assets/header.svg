@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="352" viewBox="0 0 840 352" role="img" aria-labelledby="title">
+<title id="title">Iaroslav Zaikin - Senior Embedded Software Engineer. Avionics, safety-critical, bare-metal.</title>
+<style>.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}.att{transform-box:view-box;transform-origin:704px 116px;animation:bank 11s ease-in-out infinite}@keyframes bank{0%,100%{transform:rotate(-7deg) translateY(5px)}50%{transform:rotate(9deg) translateY(-6px)}}@media (prefers-reduced-motion:reduce){.att{animation:none;transform:rotate(-5deg)}}</style>
+<rect x="0.5" y="0.5" width="839" height="335" rx="12" fill="#0b1117" stroke="#1e2a36" />
+<text x="36" y="52" class="mono" font-size="12" font-weight="400" fill="#22d3ee" text-anchor="start" letter-spacing="1.8">AVIONICS · SAFETY-CRITICAL · BARE-METAL</text>
+<text x="36" y="108" class="sans" font-size="44" font-weight="600" fill="#e6edf3" text-anchor="start" letter-spacing="-0.5">Iaroslav Zaikin</text>
+<text x="36" y="142" class="sans" font-size="18" font-weight="400" fill="#8a97a6" text-anchor="start">Senior Embedded Software Engineer</text>
+<defs><clipPath id="adi"><circle cx="704" cy="116" r="68" /></clipPath></defs>
+<g clip-path="url(#adi)"><g class="att">
+<rect x="568" y="-20" width="272" height="136" fill="#1f5fa8" />
+<rect x="568" y="116" width="272" height="136" fill="#6b4423" />
+<line x1="568" y1="116" x2="840" y2="116" stroke="#e6edf3" stroke-width="1.5" />
+<line x1="678" y1="164" x2="730" y2="164" stroke="#e6edf3" stroke-width="1.5" />
+<text x="666" y="167.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">20</text>
+<text x="742" y="167.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">20</text>
+<line x1="692" y1="152" x2="716" y2="152" stroke="#e6edf3" stroke-width="1.5" />
+<line x1="678" y1="140" x2="730" y2="140" stroke="#e6edf3" stroke-width="1.5" />
+<text x="666" y="143.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">10</text>
+<text x="742" y="143.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">10</text>
+<line x1="692" y1="128" x2="716" y2="128" stroke="#e6edf3" stroke-width="1.5" />
+<line x1="692" y1="104" x2="716" y2="104" stroke="#e6edf3" stroke-width="1.5" />
+<line x1="678" y1="92" x2="730" y2="92" stroke="#e6edf3" stroke-width="1.5" />
+<text x="666" y="95.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">10</text>
+<text x="742" y="95.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">10</text>
+<line x1="692" y1="80" x2="716" y2="80" stroke="#e6edf3" stroke-width="1.5" />
+<line x1="678" y1="68" x2="730" y2="68" stroke="#e6edf3" stroke-width="1.5" />
+<text x="666" y="71.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">20</text>
+<text x="742" y="71.5" class="mono" font-size="10" font-weight="400" fill="#e6edf3" text-anchor="middle">20</text>
+<path d="M704 51 l-6 10 h12 Z" fill="#e6edf3" />
+</g></g>
+<circle cx="704" cy="116" r="68" fill="none" stroke="#1e2a36" stroke-width="2" />
+<line x1="704" y1="44" x2="704" y2="35" stroke="#8a97a6" stroke-width="1.5" transform="rotate(-60 704 116)" />
+<line x1="704" y1="44" x2="704" y2="39" stroke="#8a97a6" stroke-width="1.5" transform="rotate(-45 704 116)" />
+<line x1="704" y1="44" x2="704" y2="35" stroke="#8a97a6" stroke-width="1.5" transform="rotate(-30 704 116)" />
+<line x1="704" y1="44" x2="704" y2="39" stroke="#8a97a6" stroke-width="1.5" transform="rotate(-20 704 116)" />
+<line x1="704" y1="44" x2="704" y2="39" stroke="#8a97a6" stroke-width="1.5" transform="rotate(-10 704 116)" />
+<line x1="704" y1="44" x2="704" y2="35" stroke="#8a97a6" stroke-width="1.5" transform="rotate(0 704 116)" />
+<line x1="704" y1="44" x2="704" y2="39" stroke="#8a97a6" stroke-width="1.5" transform="rotate(10 704 116)" />
+<line x1="704" y1="44" x2="704" y2="39" stroke="#8a97a6" stroke-width="1.5" transform="rotate(20 704 116)" />
+<line x1="704" y1="44" x2="704" y2="35" stroke="#8a97a6" stroke-width="1.5" transform="rotate(30 704 116)" />
+<line x1="704" y1="44" x2="704" y2="39" stroke="#8a97a6" stroke-width="1.5" transform="rotate(45 704 116)" />
+<line x1="704" y1="44" x2="704" y2="35" stroke="#8a97a6" stroke-width="1.5" transform="rotate(60 704 116)" />
+<path d="M704 33 l-6 -9 h12 Z" fill="#fbbf24" />
+<path d="M650 116 H684 V125 M758 116 H724 V125" fill="none" stroke="#0b1117" stroke-width="8" />
+<path d="M650 116 H684 V125 M758 116 H724 V125" fill="none" stroke="#fbbf24" stroke-width="4" />
+<rect x="700" y="112" width="8" height="8" fill="#fbbf24" stroke="#0b1117" stroke-width="2" />
+<rect x="36" y="212" width="768" height="1" fill="#1e2a36" />
+<text x="36" y="244" class="mono" font-size="11" font-weight="400" fill="#8a97a6" text-anchor="start" letter-spacing="1.6">LANGUAGES</text>
+<text x="36" y="270" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">C99 / C11</text>
+<text x="36" y="291" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">C++23</text>
+<text x="189.6" y="244" class="mono" font-size="11" font-weight="400" fill="#8a97a6" text-anchor="start" letter-spacing="1.6">TARGETS</text>
+<text x="189.6" y="270" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">Cortex-M · Cortex-A</text>
+<text x="189.6" y="291" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">Bare-metal</text>
+<text x="189.6" y="312" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">FreeRTOS</text>
+<text x="343.2" y="244" class="mono" font-size="11" font-weight="400" fill="#8a97a6" text-anchor="start" letter-spacing="1.6">BUSES</text>
+<text x="343.2" y="270" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">CAN · Ethernet</text>
+<text x="343.2" y="291" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">ARINC 429 · 825</text>
+<text x="343.2" y="312" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">UART · SPI · I²C</text>
+<text x="496.8" y="244" class="mono" font-size="11" font-weight="400" fill="#8a97a6" text-anchor="start" letter-spacing="1.6">TOOLING</text>
+<text x="496.8" y="270" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">Python</text>
+<text x="496.8" y="291" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">GCC · OpenOCD</text>
+<text x="496.8" y="312" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">JTAG / SWD</text>
+<text x="650.4" y="244" class="mono" font-size="11" font-weight="400" fill="#8a97a6" text-anchor="start" letter-spacing="1.6">PROCESS</text>
+<text x="650.4" y="270" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">DO-178C</text>
+<text x="650.4" y="291" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">MISRA C</text>
+<text x="650.4" y="312" class="sans" font-size="14" font-weight="400" fill="#e6edf3" text-anchor="start">HIL · Traceability</text>
+</svg>

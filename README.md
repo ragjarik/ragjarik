@@ -1,26 +1,9 @@
-<h1 align="center">Hi 👋, I'm Iaroslav</h1>
-<h3 align="center">Software developer from Russia</h3>
+<img src="assets/header.svg" alt="Iaroslav Zaikin — Senior Embedded Software Engineer. Avionics, safety-critical, bare-metal.">
 
-<h4> Total time coded since 16 October 2021:</h4>
-<a href="https://wakatime.com/@9a056d9a-7a99-4c8b-a8b9-5e565ba94085"><img src="https://wakatime.com/badge/user/9a056d9a-7a99-4c8b-a8b9-5e565ba94085.svg" alt="Total time coded since Oct 16 2021" /></a>
+I write deterministic C and C++23 for avionics — bare-metal drivers, CAN and ARINC buses, network stacks on Cortex-M — and I run the lifecycle around the code: requirements, architecture, traceability, verification and DO-178C certification. Python is my test bench, not my product.
 
-- 🔭 I’m currently working on **neural nets**
+<img src="assets/lifecycle.svg" alt="Development lifecycle (V-model): requirements, architecture and design down to code, then unit tests, integration and DO-178C qualification, traced level to level.">
 
-- 🌱 I’m currently learning **advanced C++**
+<a href="https://wakatime.com/@IaroslavDev"><img src="assets/flight-log.svg" alt="WakaTime flight log: hours logged, days active, top languages and editors."></a>
 
-- 👯 I’m looking to collaborate on **PC software**
-
-- 👨‍💻 All of my projects are available at [https://github.com/IaroslavInternational](https://github.com/IaroslavInternational)
-
-- 💻 Wakatime stats since reg (16.10.2021) [https://wakatime.com/@IaroslavDev](https://wakatime.com/@IaroslavDev)
-
-- 💬 Ask me about **programming on C/C++, dev-t in common**
-
-- 📫 How to reach me **it@jaroslav-zaikin..ru**
-
-- ⚡ Fun fact **Does not work without music**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaroslavinternational&theme=dark" alt="iaroslavinternational" /></p>
+[LinkedIn](https://www.linkedin.com/in/iaroslav-zaikin/) · [Email](mailto:it@jaroslav-zaikin.ru) · [WakaTime](https://wakatime.com/@IaroslavDev)
